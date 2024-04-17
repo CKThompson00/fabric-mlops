@@ -65,3 +65,6 @@ These are the todos.
 
 2. Add logic to call the second notebook from the first once building is complete.
 
+3. Allow for a dynamic test of the metrics vs a single metric to allow more flexibility.
+
+
